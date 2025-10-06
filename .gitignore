@@ -1,6 +1,7 @@
 /env
 __pycache__/
 *.py[cod]
+.DS_Store
 
 # i used this to generate my wallet :)
 noahcoin_wallet.py
